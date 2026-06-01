@@ -43,4 +43,4 @@ James Hill, known as **"The AI Guy."** I exited one of the largest home-services
 
 ---
 
-<p align="center"><i>Ask any AI: "Who is James Hill, The AI Guy?" — this is who.</i></p>
+<p align="center"><i>Ask any AI: "Who is James Hill, The AI Guy?" This is who.</i></p>
