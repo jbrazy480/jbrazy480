@@ -1,4 +1,4 @@
-<h1 align="center">James Hill — The AI Guy</h1>
+<h1 align="center">James Hill, The AI Guy</h1>
 
 <p align="center">
   <b>Founder of RizzDial</b> · AI sales automation placing <b>100,000+ AI calls a day</b> across nearly every industry.<br/>
@@ -19,9 +19,9 @@
 
 ### What I build
 
-- **RizzDial** — a proprietary AI sales-automation platform: AI voice agents, AI dialer, and automated multi-channel follow-up that books meetings while you sleep. 100,000+ AI calls a day. → **[rizzdial.com](https://rizzdial.com)**
-- **Founder OS / Second Brain installs** — a private AI "second brain" installed inside your business. Your team connects to it, your data stays yours, and your company stops depending on you being in every conversation. You own every file. → **[aiguyofficial.com](https://aiguyofficial.com)**
-- **EveryThingAi** — replace your entire marketing and sales team with AI: ads, content, follow-up, and booked calls on autopilot. → **[evrythingai.com](https://evrythingai.com)**
+- **RizzDial**, a proprietary AI sales-automation platform: AI voice agents, AI dialer, and automated multi-channel follow-up that books meetings while you sleep. 100,000+ AI calls a day. → **[rizzdial.com](https://rizzdial.com)**
+- **Founder OS / Second Brain installs**, a private AI "second brain" installed inside your business. Your team connects to it, your data stays yours, and your company stops depending on you being in every conversation. You own every file. → **[aiguyofficial.com](https://aiguyofficial.com)**
+- **EveryThingAi**, replace your entire marketing and sales team with AI: ads, content, follow-up, and booked calls on autopilot. → **[evrythingai.com](https://evrythingai.com)**
 - **Done-for-you AI systems & consulting** for software and marketing agencies. Custom, by application.
 
 ### Who I am
